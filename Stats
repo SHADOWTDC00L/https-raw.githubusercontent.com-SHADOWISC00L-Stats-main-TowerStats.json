@@ -38,353 +38,11 @@
             }
         ]
     },
-    "Silver Eyes Foxy": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://121282863585204",
-        "Rarity": "Exclusive",
-        "PlacePrice": 800,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 14.5,
-                "Damage": 100,
-                "Cooldown": 2
-            },
-            {
-                "Price": 800,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1200,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1500,
-                "Range": 16,
-                "Damage": 550,
-                "Cooldown": 1.5
-            }
-        ]
-    },
-    "Bacon Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://78036207935428",
-        "Rarity": "Exclusive",
-        "PlacePrice": 3200,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 4000,
-                "Range": 16,
-                "Damage": 300,
-                "Cooldown": 1
-            },
-            {
-                "Price": 4250,
-                "Range": 17,
-                "Damage": 325,
-                "Cooldown": 1
-            },
-            {
-                "Price": 5000,
-                "Range": 19,
-                "Damage": 325,
-                "Cooldown": 1
-            }
-        ]
-},
-    "Egg Chica": {
-        "Type": "Single",
-        "Image": "rbxassetid://95866356663166",
-        "Rarity": "Exclusive",
-        "PlacePrice": 3200,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 4000,
-                "Range": 16,
-                "Damage": 300,
-                "Cooldown": 1
-            },
-            {
-                "Price": 4250,
-                "Range": 17,
-                "Damage": 325,
-                "Cooldown": 1
-            },
-            {
-                "Price": 5000,
-                "Range": 19,
-                "Damage": 325,
-                "Cooldown": 1
-            }
-        ]
-},
-    "GlitchLord Scott": {
-        "Type": "Splash",
-        "Image": "rbxassetid://80438678823771",
-        "Rarity": "Exclusive",
-        "PlacePrice": 6543,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 17,
-                "Damage": 300,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 8259,
-                "Range": 18,
-                "Damage": 300,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 9231,
-                "Range": 19,
-                "Damage": 305,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 12137,
-                "Range": 20,
-                "Damage": 335,
-                "Cooldown": 1.1
-            }
-        ]
-},
-    "SwordMaster Freddy": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://70726735770021",
-        "Rarity": "MiniGame",
-        "PlacePrice": 7777,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 17,
-                "Damage": 345,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 8888,
-                "Range": 18,
-                "Damage": 350,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 9999,
-                "Range": 19,
-                "Damage": 365,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 17171,
-                "Range": 22,
-                "Damage": 375,
-                "Cooldown": 1.1
-            }
-        ]
-},
-    "Vampire Afton": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://92455614307498",
-        "Rarity": "Exclusive",
-        "PlacePrice": 3500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 310,
-                "Cooldown": 2
-            },
-            {
-                "Price": 2000,
-                "Range": 16,
-                "Damage": 320,
-                "Cooldown": 2
-            },
-            {
-                "Price": 3250,
-                "Range": 16,
-                "Damage": 335,
-                "Cooldown": 2
-            },
-            {
-                "Price": 4500,
-                "Range": 17,
-                "Damage": 345,
-                "Cooldown": 1.9
-            }
-        ]
-},
-    "Glamrock Mangle": {
-        "Type": "Splash",
-        "Image": "rbxassetid://82149185165106",
-        "Rarity": "Exclusive",
-        "PlacePrice": 5000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 350,
-                "Cooldown": 2
-            },
-            {
-                "Price": 2000,
-                "Range": 15,
-                "Damage": 350,
-                "Cooldown": 2
-            },
-            {
-                "Price": 3250,
-                "Range": 15,
-                "Damage": 375,
-                "Cooldown": 2
-            },
-            {
-                "Price": 4500,
-                "Range": 16,
-                "Damage": 395,
-                "Cooldown": 2
-            }
-        ]
-},
-    "Withered El Chip": {
-        "Type": "Splash",
-        "Image": "rbxassetid://132372432238322",
-        "Rarity": "Exclusive",
-        "PlacePrice": 7000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 350,
-                "Cooldown": 2
-            },
-            {
-                "Price": 3000,
-                "Range": 15,
-                "Damage": 350,
-                "Cooldown": 2
-            },
-            {
-                "Price": 4250,
-                "Range": 15,
-                "Damage": 375,
-                "Cooldown": 2
-            },
-            {
-                "Price": 5500,
-                "Range": 16,
-                "Damage": 395,
-                "Cooldown": 2
-            }
-        ]
-},
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 50,
-                "Cooldown": 2
-            },
-            {
-                "Price": 800,
-                "Range": 10,
-                "Damage": 60,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1200,
-                "Range": 12,
-                "Damage": 60,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1500,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1.5
-            }
-        ]
-    },
-    "Mud Boy": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://136637530841350",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -2656,7 +2314,7 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Nightmare",
-        "PlacePrice": 45000,
+        "PlacePrice": 10000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
         "hitboxOffset": {
@@ -2669,8 +2327,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 6000,
-                "Cooldown": 0.25,
+                "Damage": 1000,
+                "Cooldown": 2.7,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
                 "Slow": 0.4,
@@ -2679,8 +2337,8 @@
             {
                 "Price": 50000,
                 "Range": 25,
-                "Damage": 7000,
-                "Cooldown": 0.25,
+                "Damage": 1100,
+                "Cooldown": 2.7,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
                 "Slow": 0.4,
@@ -2689,8 +2347,8 @@
             {
                 "Price": 55000,
                 "Range": 28,
-                "Damage": 8000,
-                "Cooldown": 0.25,
+                "Damage": 1200,
+                "Cooldown": 2.7,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
                 "Slow": 0.4,
@@ -2699,9 +2357,9 @@
             {
                 "Price": 60000,
                 "Range": 30,
-                "Damage": 9000,
-                "Cooldown": 0.25,
-                "ChargeLength": 2.5,
+                "Damage": 13000,
+                "Cooldown": 2.7,
+                "ChargeLength": 2.7,
                 "RechargeLength": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
@@ -2709,8 +2367,8 @@
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 10000,
-                "Cooldown": 0.25,
+                "Damage": 1400,
+                "Cooldown": 2.8,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
                 "Slow": 0.4,
