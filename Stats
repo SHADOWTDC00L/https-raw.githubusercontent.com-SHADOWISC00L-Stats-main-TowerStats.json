@@ -2187,7 +2187,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2313,7 +2313,7 @@
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
@@ -2357,7 +2357,7 @@
             {
                 "Price": 60000,
                 "Range": 30,
-                "Damage": 13000,
+                "Damage": 1300,
                 "Cooldown": 2.7,
                 "ChargeLength": 2.7,
                 "RechargeLength": 2,
