@@ -76,6 +76,49 @@
             }
         ]
 },
+    "Big Head Spring Bonnie": {
+        "Type": "Support",
+        "Image": "rbxassetid://108009321974376",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 25,
+                "Cooldown": 4,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.25
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.35
+            }
+        ]
+    },
     "Soldier Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://93037432670610",
